@@ -1,1 +1,4 @@
-https://shubham-guptaji.github.io/resume-template/
+Resume template hosted link is -
+    https://shubham-guptaji.github.io/resume-template/
+Screenshots of template link is - 
+    https://github.com/Shubham-Guptaji/resume-template/tree/main/outputs
